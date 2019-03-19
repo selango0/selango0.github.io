@@ -1,6 +1,7 @@
 # selango0.github.io
 
-Tutorial and inspiration from:\ 
+Tutorial and inspiration from:
+
 Jonathan Nicol - @mrjnicol \
 [Particle Jekyll Template](https://github.com/nrandecker/particle) \
 [RequestAnimationFrame](http://paulirish.com/2011/requestanimationframe-for-smart-animating/)
